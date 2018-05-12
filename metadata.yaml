@@ -1,4 +1,8 @@
 _repo: Godliness-being-reports-of-a-series-of-addresses-delivered-at-James-s-Hall-London-W-during-188__6669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Booth, Catherine Mumford
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2142
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Booth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6669#Godliness-being-reports-of-a-series-of-addresses-delivered-at-James-s-Hall-London-W-during-188_
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
